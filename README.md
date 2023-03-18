@@ -10,6 +10,7 @@ Check the installation section https://github.com/openai/gym
 
 ```
  pip install pygame
+ pip install numpy
  
 ```
 <h2> Performance </h2>
