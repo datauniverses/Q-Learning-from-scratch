@@ -3,10 +3,10 @@
 
 <h2> Installation </h2>
 
-<h3> Open AI Gym and prerequisites </h3>
+<h4> Open AI Gym and prerequisites </h4>
 Check the installation section https://github.com/openai/gym
 
-<h3> Install pygame </h3>
+<h4> Install pygame </h4>
 
 ```
  pip install pygame
