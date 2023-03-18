@@ -6,7 +6,7 @@
 <h4> Open AI Gym and prerequisites </h4>
 Check the installation section https://github.com/openai/gym
 
-<h4> Install pygame </h4>
+<h4> Install pygame and numpy </h4>
 
 ```
  pip install pygame
