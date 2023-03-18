@@ -7,6 +7,7 @@
 Check the installation section https://github.com/openai/gym
 
 <h2> Install pygame </h2>
+
 ```
  pip install pygame
  
