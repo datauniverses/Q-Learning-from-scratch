@@ -12,4 +12,4 @@ Check the installation section https://github.com/openai/gym
  pip install pygame
  
 ```
-<h2> Performance </h2>
+<h3> Performance </h3>
