@@ -1,5 +1,5 @@
 # Q-Learing From Scratch
- Q-learning implementation from scratch using python and Open AI Gym
+ Q-learning implementation from scratch using numpy and Open AI Gym
 
 <h2> Installation </h2>
 
