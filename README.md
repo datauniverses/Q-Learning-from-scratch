@@ -6,10 +6,10 @@
 <h3> Open AI Gym and prerequisites </h3>
 Check the installation section https://github.com/openai/gym
 
-<h2> Install pygame </h2>
+<h3> Install pygame </h3>
 
 ```
  pip install pygame
  
 ```
-<h3> Performance </h3>
+<h2> Performance </h2>
