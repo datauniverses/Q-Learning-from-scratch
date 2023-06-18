@@ -1,4 +1,6 @@
 # Using AI to Solve the Taxi Game in Open AI Gym
+
+![taxi open AI env](https://media.journoportfolio.com/users/316846/images/d7ecc997-e8e6-4235-a6db-d5a5cabd2e4e.gif)
  
  <h1>Introduction</h1>
 I have developed an AI-powered bot that uses the Q-learning algorithm to solve the Taxi Game in Open AI Gym. By leveraging the power of machine learning, the bot can adapt to changing conditions in the game and optimize its performance.
