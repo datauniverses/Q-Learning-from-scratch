@@ -28,7 +28,8 @@ The bot has shown impressive results in solving the Taxi Game in Open AI Gym, ac
 
  
  <h1> Support</h1>
-If you find this project useful, please consider supporting me at [Link](https://www.paypal.me/jameelaboyousef?country.x=JO&locale.x=en_US)
+If you find this project useful, please consider supporting me at 
+[Linkss](https://www.paypal.me/jameelaboyousef?country.x=JO&locale.x=en_US)
 
 
 
