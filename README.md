@@ -21,14 +21,15 @@ To use the bot, you will need to have Python and the Open AI Gym library install
 
 
  
- <h1>Performance </h1>
-The bot has shown impressive results in solving the Taxi Game in Open AI Gym, achieving high scores and completing the game with optimal efficiency. You can see the bot in action and its performance in this YouTube video:        https://www.youtube.com/watch?v=fR17LTfRjQ4
+ # Performance 
+The bot has shown impressive results in solving the Taxi Game in Open AI Gym, achieving high scores and completing the game with optimal efficiency. You can see the bot in action and its performance in this YouTube video:        [Youtube](https://www.youtube.com/watch?v=fR17LTfRjQ4)
 
 
 
  
- <h1> Support</h1>
-If you find this project useful, please consider supporting me at https://www.paypal.me/jameelaboyousef?country.x=JO&locale.x=en_US
+ # Support 
+If you find this project useful, please consider supporting me at [Paypal](https://www.paypal.me/jameelaboyousef?country.x=JO&locale.x=en_US)
+
 
 
 
